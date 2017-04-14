@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<books>
+    <book>
+        <id>firstBook</id>
+        <name>SoftwareTesting</name>
+        <author>Kulikov</author>
+    </book>
+    <book>
+        <id>secondBook</id>
+        <name>ProgrammingMethodsJava</name>
+        <author>Blinov</author>
+    </book>
+    <book>
+        <id>thirdBookr</id>
+        <name>Java8</name>
+        <author>Shildt</author>
+    </book>
+</books>
